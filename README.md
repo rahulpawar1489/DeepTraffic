@@ -1,2 +1,2 @@
-# deeptraffichints
-Deep traffic game hints
+# DeepTraffic
+Solution to deep traffic game 
